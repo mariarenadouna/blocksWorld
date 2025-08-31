@@ -1,0 +1,3 @@
+Move(D, ontable, C)
+Move(B, ontable, A)
+Move(C, ontable, B)
